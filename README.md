@@ -31,7 +31,7 @@ C:/../../(your project)/src/(your package)/RunnerKalkulator.java
 - Karena ini menggunakan motode OOP, untuk menjalankan Program tersebut harus running File RunnerKalkulator.java
 - kemudian running program di file RunnerKalkulator.java
 
- ## Video 
+ ## Video tutorial running
  
 
 https://github.com/muhammadbisma21/tugas2kalkulator/assets/153070381/1934af11-9b8a-4ef2-99b9-e41dc151ef97
